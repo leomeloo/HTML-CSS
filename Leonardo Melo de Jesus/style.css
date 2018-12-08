@@ -1,0 +1,29 @@
+body{
+	background-image: url(margf.gif);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+h1{
+	color: blue;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #FFF;
+	font-size:50px; 
+	
+}
+h2{	
+	
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	font-size: 23px; color: #fffdd9;
+	font-family: comic sans ms;
+	background-image: url(fundo-do-mar-6.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+/*Created by:
+	Leonardo Melo
+	Sistemas de informação 2ºS
+	047.210.721-63*/
+
